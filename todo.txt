@@ -1,0 +1,2 @@
+- Conflict handling -- existing folders, especially already containing builds
+- The option to only build examples
