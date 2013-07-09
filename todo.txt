@@ -1,2 +1,3 @@
 - Conflict handling -- existing folders, especially already containing builds
 - The option to only build examples
+- Installation of dependencies? (e.g., boost, cmake, make, pkgconfig)
